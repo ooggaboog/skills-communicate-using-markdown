@@ -7,3 +7,7 @@ jupie
 a = "Hello, world!"
 print(a)
 ```
+
+- [ ] anjumania
+- [X] press kachat
+- [ ] begit
